@@ -3,7 +3,8 @@
 This project is based on the course 03701 Practical Computing for Biological Sciences at Carnegie Mellon University.
 
 ➡The script Final_Porject.py run a basic analysis of a bacterial genome analysis.
-In this project, I select the species Escherichia coli JE86-ST05 as my analysis object. This script successfully did:\n
+In this project, I select the species Escherichia coli JE86-ST05 as my analysis object. This script successfully did:
+
   a. Scan both genomic DNA strands for potential open reading frames longer than 50 codons.
   b. Translate the potential open reading frames into protein sequences.
   c. Calculate the predicted molecular mass of each protein (in kD).
