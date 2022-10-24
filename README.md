@@ -35,7 +35,7 @@ This Python script accomplishes the following tasks:
  
 ## ➡️The script Genome_visualization.py is a visualization of whole genomes.
 
-    a. import GenomeDiagram module visualizing genomes in a circular diagram from GenBank
+    a. import GenomeDiagram module visualizing genomes in both linear and circular diagrams from GenBank
  
     b. pick EcoRI recognition sites as a sensible caption for the features
  
